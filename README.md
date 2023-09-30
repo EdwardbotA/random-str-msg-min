@@ -1,2 +1,22 @@
 # random-str-msg-min
-Random String Messages In Your Terminal
+Enjoy a Random String Messages In Your Terminal
+
+Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+
+## Install
+
+```npm
+npm install -g random-str-msg-min
+```
+
+# Usage
+
+```bash
+random-str-msg-min
+```
+
+# Contributing
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg-min](https://github.com/EdwardbotA/random-str-msg-min)
+
+# License
+random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
