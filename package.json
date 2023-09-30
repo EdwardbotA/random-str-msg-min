@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-min",
+  "version": "1.0.0",
+  "description": "Random String Messages In Your Terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edward Botello <ebotelloaroca00@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-min": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
